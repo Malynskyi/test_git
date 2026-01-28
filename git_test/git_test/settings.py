@@ -118,3 +118,8 @@ STATIC_URL = 'static/'
 TEST_LIST = [
     'urgent_variable',
 ]
+
+
+TEST_LIST = [
+    'urgent_variable'
+]
