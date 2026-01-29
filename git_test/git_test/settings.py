@@ -121,7 +121,7 @@ TEST_VAR = 'test'
 
 
 TEST_LIST = [
-    'test',
+    'test correct value',
     'urgent_variable',
     
 ]
